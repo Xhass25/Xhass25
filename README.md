@@ -1,18 +1,19 @@
 <!--Banner-->
-<a href="https://www.linkedin.com/in/hasaraka-bandara-13876b381"> 
-  <img src="https://github.com/Xhass25/Xhass25/blob/e1d9f683e4d82ec03f04c98b4fa87c24551cebc2/Asset/banner.gif.gif" alt="Banner"/>
-</a>
+<img src="https://github.com/Xhass25/Xhass25/blob/e1d9f683e4d82ec03f04c98b4fa87c24551cebc2/Asset/banner.gif.gif" alt="Banner"/>
 
 
 <!--Detail-->
 <div align="center">
 <h1>Hi, I'm Hasaraka Bandara</h1>
 <h3>Cyber Security Enthusiast | undergraduate</h3>
-<p align="center"> <img scr="https://github.com/Xhass25/Xhass25/blob/e1d9f683e4d82ec03f04c98b4fa87c24551cebc2/Asset/Linkedin%201.png"/>  </p>
+  <a href="https://www.linkedin.com/in/hasaraka-bandara-13876b381/">
+    <img src="https://github.com/Xhass25/Xhass25/blob/e1508da998b1448df9e0139b34b3a79758a697b3/Asset/Linkedin%201.png" width="48" height="48" alt=Linkedin/>
+  </a>
 </div>
 
 <p>
   <h3>👋About Me</h3>
+  <hr>
   Hi! I'm Hasarsaka, an undergraduate and cybersecurity enthusiast passionate about technology, cybersecurity, and continuous learning. <br><br>
 
   🔐 Currently exploring Cybersecurity, Network Security, Ethical Hacking, and AI in Cybersecurity.<br>
@@ -28,7 +29,7 @@
 <hr>
 
 <!--Language-->
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github.com/Xhass25/Xhass25/blob/e1d9f683e4d82ec03f04c98b4fa87c24551cebc2/Asset/python.png" width="48" height="48" alt="python"/>
@@ -57,7 +58,7 @@
 <!--beyond code-->
 <h3>More Than Just Code</h3>
 <hr>
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github.com/Xhass25/Xhass25/blob/e1d9f683e4d82ec03f04c98b4fa87c24551cebc2/Asset/PS.png" width="48" height="48" alt="PS"/>
@@ -68,21 +69,12 @@
       <br>Small idea <br> in UI/UX
     </td>
     <td align="center">
-      
+      <img src="https://github.com/Xhass25/Xhass25/blob/e1508da998b1448df9e0139b34b3a79758a697b3/Asset/netendo%20anime%20gif.gif" width="48" height="48" alt="Figma"/>
+      <br>Gamer
     </td>
   </tr>
 </table>
+<hr>
 
 
-
-
-
-
-
-
-
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=xhass25&label=Profile%20views&color=0e75b6&style=flat" alt="xhass25" /> </p>  
-  
-
-    
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xhass25&label=Profile%20views&color=0e75b6&style=flat" alt="xhass25" /> </p>  
